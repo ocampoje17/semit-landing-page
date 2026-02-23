@@ -461,12 +461,12 @@ img {
 }
 
 .phone-main {
-  width: 260px;
+  width: 300px;
   aspect-ratio: 9/19.5;
 }
 
 .phone-side {
-  width: 200px;
+  width: 230px;
   aspect-ratio: 9/19.5;
   opacity: 0.6;
   transform: scale(0.92) translateY(20px);
