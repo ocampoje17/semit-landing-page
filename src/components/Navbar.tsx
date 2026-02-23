@@ -13,7 +13,7 @@ export default function Navbar() {
                 <div className="nav-inner">
                     {/* Logo */}
                     <Link to="/" className="nav-logo">
-                        <img src="/semit-landing-page/app-icon.png" alt="Semit" />
+                        <img src="/app-icon.png" alt="Semit" />
                         <span>Semit</span>
                     </Link>
 

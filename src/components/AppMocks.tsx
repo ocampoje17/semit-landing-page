@@ -28,7 +28,7 @@ export function AppMockHome() {
                 marginBottom: '20px', position: 'relative', zIndex: 1
             }}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
-                    <img src="/semit-landing-page/app-icon.png" alt="Semit"
+                    <img src="/app-icon.png" alt="Semit"
                         style={{ width: '36px', height: '36px', borderRadius: '10px' }} />
                     <span style={{ fontWeight: '800', fontSize: '18px', color: '#f0f0f8' }}>Semit</span>
                 </div>

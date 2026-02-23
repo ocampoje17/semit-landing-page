@@ -8,7 +8,7 @@ export default function Footer() {
                     {/* Brand */}
                     <div className="footer-brand">
                         <div className="footer-brand-name">
-                            <img src="/semit-landing-page/app-icon.png" alt="Semit" />
+                            <img src="/app-icon.png" alt="Semit" />
                             <span>Semit</span>
                         </div>
                         <p className="footer-brand-desc">

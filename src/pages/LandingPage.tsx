@@ -557,7 +557,7 @@ export default function LandingPage() {
                             }} />
 
                             <img
-                                src="/semit-landing-page/app-icon.png"
+                                src="/app-icon.png"
                                 alt="Semit"
                                 style={{
                                     width: '80px', height: '80px',
