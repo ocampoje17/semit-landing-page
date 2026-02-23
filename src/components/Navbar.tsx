@@ -49,7 +49,7 @@ export default function Navbar() {
                 </div>
 
                 {/* Mobile menu */}
-                {mobileOpen && isLanding && (
+                {mobileOpen && (
                     <div style={{
                         padding: '16px 0 20px',
                         borderTop: '1px solid var(--border-subtle)',
@@ -65,7 +65,7 @@ export default function Navbar() {
                         ].map(item => (
                             <a
                                 key={item.href}
-                                href={item.href}
+                                href={isLanding ? item.href : `/${item.href}`}
                                 onClick={() => setMobileOpen(false)}
                                 style={{
                                     padding: '12px 8px',

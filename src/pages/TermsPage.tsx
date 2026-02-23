@@ -39,11 +39,13 @@ export default function TermsPage() {
                             Semit là ứng dụng theo dõi cột mốc và đếm ngược thời gian dành cho Android. Ứng dụng cho phép bạn:
                         </p>
                         <ul>
-                            <li>Tạo và quản lý các cột mốc cá nhân với ngày tháng và biểu tượng</li>
-                            <li>Thêm nhiệm vụ check-list và progress tracking cho từng cột mốc</li>
-                            <li>Xem đếm ngược thời gian chính xác đến từng sự kiện</li>
-                            <li>Sử dụng widget Android để theo dõi ngay trên màn hình chính</li>
-                            <li>Tùy chỉnh hình nền cá nhân cho mỗi cột mốc</li>
+                            <li>Tạo mới, quản lý và lên lịch các sự kiện quan trọng trong cuộc sống.</li>
+                            <li>Theo dõi tiến độ bằng danh sách nhiệm vụ (Checklist và Thanh phần trăm tiến độ).</li>
+                            <li>Đếm ngược / đếm xuôi số ngày tới sự kiện cực kỳ chính xác.</li>
+                            <li>Khả năng tuỳ biến linh hoạt: màu sắc chủ đề, chế độ hiển thị Sáng/Tối.</li>
+                            <li>Thay đổi hình nền từ bộ sưu tập ảnh cá nhân (kèm hiệu ứng làm mờ, tối ảnh, thu phóng).</li>
+                            <li>Cài đặt Widget đếm ngày (hỗ trợ size 4x3 và 2x2) hiển thị độc lập ngay trên màn hình chính của Android.</li>
+                            <li>Xuất nội dung sự kiện thành hình ảnh đẹp mắt để lưu lại hoặc chia sẻ lên mọi nền tảng mạng xã hội.</li>
                         </ul>
 
                         <h2>3. Sử dụng ứng dụng</h2>
@@ -108,7 +110,7 @@ export default function TermsPage() {
 
                         <h2>12. Liên hệ</h2>
                         <p>
-                            Nếu bạn có câu hỏi về Điều khoản sử dụng này, vui lòng liên hệ với chúng tôi qua trang GitHub của dự án.
+                            Nếu bạn có câu hỏi về Điều khoản sử dụng này, vui lòng liên hệ với chúng tôi qua các thông tin được cung cấp ở phần cuối (footer) của trang web này.
                         </p>
                     </div>
                 </div>

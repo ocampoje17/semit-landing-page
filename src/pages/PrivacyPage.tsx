@@ -35,11 +35,10 @@ export default function PrivacyPage() {
                             Semit cho phép bạn tạo và quản lý các cột mốc cá nhân. Ứng dụng lưu trữ các thông tin sau <strong>trực tiếp trên thiết bị của bạn</strong>:
                         </p>
                         <ul>
-                            <li>Tên và mô tả cột mốc bạn tạo</li>
-                            <li>Ngày tháng và thời gian của các sự kiện</li>
-                            <li>Biểu tượng emoji bạn chọn</li>
-                            <li>Danh sách nhiệm vụ và tiến độ hoàn thành</li>
-                            <li>Hình ảnh nền bạn chọn từ thư viện (chỉ lưu đường dẫn tham chiếu)</li>
+                            <li>Các sự kiện, ngày giờ, biểu tượng emoji mà bạn tự thiết lập</li>
+                            <li>Danh sách nhiệm vụ (checklist và tiến độ) thuộc các sự kiện</li>
+                            <li>Hình nền cá nhân bạn chọn từ thư viện (ứng dụng chỉ lưu tham chiếu đường dẫn ảnh)</li>
+                            <li>Cấu hình cá nhân: màu chủ đề, chế độ sáng/tối, thiết lập tùy chỉnh Widget</li>
                         </ul>
 
                         <h3>1.2. Thông tin kỹ thuật</h3>
@@ -63,8 +62,9 @@ export default function PrivacyPage() {
                         <h2>4. Quyền truy cập thiết bị</h2>
                         <p>Ứng dụng yêu cầu một số quyền hệ thống để hoạt động:</p>
                         <ul>
-                            <li><strong>Quyền thư viện ảnh:</strong> Để bạn chọn hình nền tùy chỉnh cho cột mốc. Ứng dụng chỉ đọc ảnh bạn chủ động chọn, không quét toàn bộ thư viện.</li>
-                            <li><strong>Quyền widget:</strong> Để hiển thị thông tin cột mốc trên màn hình chính khi bạn thêm widget.</li>
+                            <li><strong>Quyền thư viện ảnh:</strong> Để bạn chọn hình nền tùy chỉnh cho ứng dụng và các cột mốc. Ứng dụng chỉ đọc, xử lý hình ảnh bạn chủ động chọn và lưu trữ hoàn toàn cục bộ trên thiết bị của bạn.</li>
+                            <li><strong>Quyền bộ nhớ/Lưu trữ (Tùy chọn thiết bị):</strong> Để phục vụ tính năng lưu ảnh "Chia sẻ cột mốc" dưới dạng một bức ảnh đẹp xuống điện thoại của bạn.</li>
+                            <li><strong>Quyền chạy dưới nền/Thông báo:</strong> Để đảm bảo hệ thống Widget hiển thị ngoài màn hình chính Android được cập nhật bộ đếm ngược một cách chính xác nhất mỗi khi qua ngày mới.</li>
                         </ul>
 
                         <h2>5. Bảo mật dữ liệu</h2>
@@ -89,7 +89,7 @@ export default function PrivacyPage() {
 
                         <h2>8. Liên hệ</h2>
                         <p>
-                            Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ với chúng tôi qua trang GitHub của dự án.
+                            Nếu bạn có bất kỳ câu hỏi nào về Chính sách bảo mật này, vui lòng liên hệ trực tiếp với chúng tôi qua các thông tin được cung cấp ở phần cuối (footer) của trang web này.
                         </p>
                     </div>
                 </div>
